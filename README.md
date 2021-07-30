@@ -1,2 +1,2 @@
-# rpg
+# RPG
 Simple RPG
